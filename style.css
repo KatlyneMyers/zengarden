@@ -1,3 +1,21 @@
 body{
     background-image: url(BackGround.jpg);
 }
+h1{
+    font-size: 100px;
+    text-align: center;
+}
+
+
+<!--classes-->
+.page-wrapper{
+    border: black solid 1px;
+}
+
+
+
+
+
+
+
+
