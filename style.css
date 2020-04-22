@@ -1,21 +1,37 @@
 body{
     background-image: url(BackGround.jpg);
 }
-h1{
-    font-size: 100px;
+/* classes */
+header{
+    font-size: 50px;
     text-align: center;
+    background-color: #c293f5;
 }
-
-
-<!--classes-->
-.page-wrapper{
-    border: black solid 1px;
+.intro{
+    background-color: #eef7bb;
 }
-
-
-
-
-
+h3{
+    font-size: 25px;
+}
+.explanation{
+    background-color: #8effa1;
+}
+.participation{
+    background-color: #8eb2ff;
+}
+.benefits{
+    background-color: #ff8ef0;
+}
+.requirements{
+    background-color: #fa5f5f;
+}
+.sidebar{
+    background-color: #fa905f;
+    text-decoration: dotted;
+}
+.ul{
+    list-style-type: square;
+}
 
 
 
